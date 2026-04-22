@@ -1,0 +1,8 @@
+[theme]
+primaryColor       = "#203d76"
+backgroundColor    = "#f5f6f7"
+secondaryBackgroundColor = "#ffffff"
+textColor          = "#1a1a1a"
+
+[server]
+maxUploadSize = 500        # MB — allows large MP4s
